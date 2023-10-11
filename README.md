@@ -11,7 +11,7 @@ flag.txt? Thanks!
 
 ## Usage
 
-Build the challenge container with:
+Build and run the challenge container with:
 ```sh
 $ ./build.sh
 ```
@@ -21,3 +21,6 @@ Access the challenge via `ssh`:
 # Password: pass
 $ ssh -p 9999 user@localhost
 ```
+
+## How did I make this?
+I go over the details of the challenge and resources in a [blog post](https://pjg1.site/rc05).
